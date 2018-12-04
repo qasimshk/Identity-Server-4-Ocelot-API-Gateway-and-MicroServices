@@ -1,0 +1,14 @@
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\IdentityAuth\bin\Debug\netcoreapp2.1\IdentityAuth.deps.json
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\IdentityAuth\bin\Debug\netcoreapp2.1\IdentityAuth.runtimeconfig.json
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\IdentityAuth\bin\Debug\netcoreapp2.1\IdentityAuth.runtimeconfig.dev.json
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\IdentityAuth\bin\Debug\netcoreapp2.1\IdentityAuth.dll
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\IdentityAuth\obj\Debug\netcoreapp2.1\IdentityAuth.csproj.CoreCompileInputs.cache
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\IdentityAuth\obj\Debug\netcoreapp2.1\IdentityAuth.RazorAssemblyInfo.cache
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\IdentityAuth\obj\Debug\netcoreapp2.1\IdentityAuth.RazorAssemblyInfo.cs
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\IdentityAuth\obj\Debug\netcoreapp2.1\IdentityAuth.AssemblyInfoInputs.cache
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\IdentityAuth\obj\Debug\netcoreapp2.1\IdentityAuth.AssemblyInfo.cs
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\IdentityAuth\obj\Debug\netcoreapp2.1\IdentityAuth.RazorTargetAssemblyInfo.cache
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\IdentityAuth\bin\Debug\netcoreapp2.1\IdentityAuth.pdb
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\IdentityAuth\obj\Debug\netcoreapp2.1\IdentityAuth.dll
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\IdentityAuth\obj\Debug\netcoreapp2.1\IdentityAuth.pdb
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\IdentityAuth\obj\Debug\netcoreapp2.1\IdentityAuth.csprojAssemblyReference.cache
