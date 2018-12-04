@@ -1,5 +1,6 @@
---Description
-Authenticating micro services using Identity server 4 and merging all the URLs of all both APIs in one API gateway using Ocelot, an open course API gateway library. Please find the below mentioned URL to access the APIs
+# Description
+
+Authenticating micro services using Identity server 4 and merging all the URLs of both APIs in one API gateway using Ocelot, an open source API gateway. Please find the below mentioned URL to access the APIs
 
 Customer API
 https://localhost:44324/customer-api/customer/all
