@@ -7,7 +7,7 @@ Authenticating micro services using Identity server 4 and merging all the URLs o
 - https://localhost:44324/customer-api/customer/2
 - https://localhost:44324//customer-api/customer/Register
 
-cmd> {
+request: {
 	"Id": 6,
 	"FirstName": "Qasim",
 	"LastName": "Sheikh",
