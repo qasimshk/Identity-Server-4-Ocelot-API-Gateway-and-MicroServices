@@ -1,0 +1,14 @@
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\OrderAPI\bin\Debug\netcoreapp2.1\OrderAPI.deps.json
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\OrderAPI\bin\Debug\netcoreapp2.1\OrderAPI.runtimeconfig.json
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\OrderAPI\bin\Debug\netcoreapp2.1\OrderAPI.runtimeconfig.dev.json
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\OrderAPI\bin\Debug\netcoreapp2.1\OrderAPI.dll
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\OrderAPI\bin\Debug\netcoreapp2.1\OrderAPI.pdb
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.csproj.CoreCompileInputs.cache
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.RazorAssemblyInfo.cache
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.RazorAssemblyInfo.cs
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.AssemblyInfoInputs.cache
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.AssemblyInfo.cs
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.RazorTargetAssemblyInfo.cache
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.dll
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.pdb
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.csprojAssemblyReference.cache
