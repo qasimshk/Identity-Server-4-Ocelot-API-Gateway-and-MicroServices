@@ -11,4 +11,3 @@
 \\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.RazorTargetAssemblyInfo.cache
 \\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.dll
 \\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.pdb
-\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.csprojAssemblyReference.cache
