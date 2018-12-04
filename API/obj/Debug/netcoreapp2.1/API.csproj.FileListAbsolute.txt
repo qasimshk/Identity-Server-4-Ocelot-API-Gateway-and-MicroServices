@@ -1,0 +1,14 @@
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\API\bin\Debug\netcoreapp2.1\API.deps.json
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\API\bin\Debug\netcoreapp2.1\API.runtimeconfig.json
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\API\bin\Debug\netcoreapp2.1\API.runtimeconfig.dev.json
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\API\bin\Debug\netcoreapp2.1\API.dll
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\API\bin\Debug\netcoreapp2.1\API.pdb
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\API\obj\Debug\netcoreapp2.1\API.csproj.CoreCompileInputs.cache
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\API\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cache
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\API\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cs
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\API\obj\Debug\netcoreapp2.1\API.AssemblyInfoInputs.cache
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\API\obj\Debug\netcoreapp2.1\API.AssemblyInfo.cs
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\API\obj\Debug\netcoreapp2.1\API.RazorTargetAssemblyInfo.cache
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\API\obj\Debug\netcoreapp2.1\API.dll
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\API\obj\Debug\netcoreapp2.1\API.pdb
+\\KTH-VS-FILE00\Userstore$\Muhammad.Qasim\Desktop\API\API\obj\Debug\netcoreapp2.1\API.csprojAssemblyReference.cache
