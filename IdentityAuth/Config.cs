@@ -1,4 +1,4 @@
-﻿using IdentityServer4;
+using IdentityServer4;
 using IdentityServer4.Models;
 using IdentityServer4.Test;
 using System.Collections.Generic;
@@ -51,6 +51,7 @@ namespace IdentityAuth
             return new List<ApiResource>
             {
                 new ApiResource("CustomerAPI","Customer API"),
+                new ApiResource("OrderAPI","Order API"),
                 new ApiResource("GatewayAPI","Gateway API")
             };
         }
@@ -75,7 +76,8 @@ namespace IdentityAuth
                         IdentityServerConstants.StandardScopes.OpenId,
                         IdentityServerConstants.StandardScopes.Profile,
                         "CustomerAPI",
-                        "GatewayAPI"
+                        "GatewayAPI",
+                        "OrderAPI"
                     }
                 }
             };
